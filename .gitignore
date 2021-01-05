@@ -1,0 +1,33 @@
+# env
+env/
+
+# log file 
+*.log
+__pycache__
+*.pyc
+*~
+
+# build file
+build
+dist
+django_rest_inherits_error_messages.egg-info
+
+# database config file
+*.sqlite3
+
+# vscode bash dump
+*.stackdump
+
+# pip 
+*.whl
+
+# mypy
+.mypy_cache
+
+# pytest
+.pytest_cache
+
+# vscode
+.vscode/launch.json
+.vscode/settings.json
+
